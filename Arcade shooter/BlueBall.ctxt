@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=blueVelocity\ rotating
+comment0.target=BlueBall(int,\ int)
+comment0.text=\r\n\ CONSTRUCTOR\ with\ parameters\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nAct\ method\r\n
+comment2.params=
+comment2.target=boolean\ edgeWall()
+numComments=3

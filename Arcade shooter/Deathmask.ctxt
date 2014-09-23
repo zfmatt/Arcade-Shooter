@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=Deathmask(Player)
+comment0.text=\r\n\ constructor\ for\ Deathmask\ that\ has\ player\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Deathmask\ wants\ to\ do.\ \r\n
+comment2.params=
+comment2.target=void\ deathmaskCollision()
+comment2.text=\r\n\ \ eye\ check\ collision\ method\r\n
+comment3.params=
+comment3.target=void\ deathmaskZero()
+comment3.text=\r\n\ If\ deathmask's\ health\ is\ <\=\ 0,\ then\ remove\ it\r\n
+comment4.params=
+comment4.target=void\ deathmaskAttack()
+comment4.text=\r\n\ the\ primary\ attack\ from\ deathmask\r\n
+comment5.params=
+comment5.target=void\ spin()
+comment5.text=\r\n\ method\ for\ making\ deathmask\ spin\ in\ random\ directions\r\n
+numComments=6

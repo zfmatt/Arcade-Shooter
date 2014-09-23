@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GrowBall()
+comment0.text=\r\n\ Constructor\ for\ the\ class\ GrowBall\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nAct\ method\r\n
+comment2.params=
+comment2.target=void\ bigger()
+comment2.text=\r\n\ make\ image\ bigger\r\n\ CODE\ SLIGHTLY\ adapted\ from\ Michael\ Kolling\r\n\ most\ of\ editing\ this\ code\ was\ done\ by\ me\r\n
+comment3.params=
+comment3.target=boolean\ edgeWall()
+comment3.text=\r\n\ method\ to\ see\ if\ it\ touches\ the\ world's\ edge\r\n
+numComments=4

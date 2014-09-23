@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=endX\ endY
+comment0.target=Fireball(int,\ int)
+comment0.text=\r\n\ By\ Mr\ cohen\r\n\ Constructor\ of\ a\ Marble\ includes\ parameters\ to\ tell\ it\ where\ to\ move\ towards\r\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ By\:\ Mr.\ Cohen\r\n\ When\ added\ to\ world,\ Marble\ will\ turn\ towards\ it's\ end\ point.\ It\ will\ then\ calculate\r\n\ how\ far\ it\ should\ move.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Fireball\ wants\ to\ do.\ \r\n
+comment3.params=
+comment3.target=boolean\ atWorldEdge()
+comment3.text=\r\n\ By\ Mr.\ Cohen\r\n\ removes\ object\ if\ at\ world\ edge\r\n
+comment4.params=
+comment4.target=void\ fireTouch()
+comment4.text=\r\n\ method\ to\ remove\ the\ object\ after\ touching\ enemy.\r\n
+comment5.params=
+comment5.target=void\ startTrail()
+comment5.text=\r\nmethod\ for\ starting\ the\ trail.\r\n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fullBar
+comment0.target=CooldownBar(int)
+comment1.params=currentCd
+comment1.target=void\ changeBar(int)
+numComments=2

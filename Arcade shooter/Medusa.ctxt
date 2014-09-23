@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=Medusa(Player)
+comment0.text=\r\n\ constructor\ with\ player\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Medusa\ wants\ to\ do.\r\n
+comment2.params=
+comment2.target=void\ medusaZero()
+comment2.text=\r\n\ If\ medusa's\ health\ is\ below\ zero,\ remove\ it\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ method\ to\ check\ for\ collision\r\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=Feather(Player)
+comment0.text=\r\n\ constructor\ for\ class\ feather\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Feather\ wants\ to\ do.\ \r\n
+comment2.params=
+comment2.target=boolean\ edgeWall()
+comment2.text=\r\nmethod\ to\ see\ if\ the\ death\ touches\ the\ world's\ edge\r\n
+numComments=3

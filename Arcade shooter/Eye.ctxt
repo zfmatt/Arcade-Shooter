@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Eye()
+comment0.text=\r\n\ constructor\ for\ Eye\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \ \ \ \r\n\ \ \ \ Act\ Method\r\n
+comment2.params=
+comment2.target=void\ eyeCheckCollision()
+comment2.text=\r\n\ \ eye\ check\ collision\ method\r\n
+comment3.params=
+comment3.target=void\ eyeZero()
+comment3.text=\r\n\ If\ Eye's\ health\ is\ <\=\ 0,\ then\ remove\ Eye\r\n
+comment4.params=
+comment4.target=void\ blueBallAttack()
+comment4.text=\ \r\n\ method\ for\ spawning\ blue\ ball\ attacks\r\n
+comment5.params=
+comment5.target=void\ randomMovement()
+comment5.text=\r\n\ Generate\ random\ movement\ for\ death.\r\n\ Mr\ Cohen\ helped\ with\ this\ piece\ of\ code**\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Orange\ wants\ to\ do.\ \r\n
+comment1.params=
+comment1.target=boolean\ edgeFire()
+comment1.text=\r\n\ method\ to\ see\ if\ the\ orange\ touces\ the\ world's\ edge\r\n
+numComments=2

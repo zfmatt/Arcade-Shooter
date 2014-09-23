@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pVelocity\ rotating
+comment0.target=Sickle(int,\ int)
+comment0.text=\r\n\ constructor\ with\ 2\ parameters\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Sickle\ wants\ to\ do.\r\n
+comment2.params=
+comment2.target=boolean\ edgeWall()
+numComments=3

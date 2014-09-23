@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fullShield
+comment0.target=ShieldBar(int)
+comment1.params=currentShield
+comment1.target=void\ changeBar(int)
+numComments=2

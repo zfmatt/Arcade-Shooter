@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=pVelocity\ purpleBoom
+comment0.target=GreenballPurple(int,\ int)
+comment0.text=\r\n\ constructor\ that\ takes\ in\ two\ parameters\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GreenballPurple\ wants\ to\ do.\ \r\n
+comment2.params=
+comment2.target=boolean\ edgeGreen()
+comment2.text=\r\n\ //method\ to\ see\ if\ the\ greenballPurple\ touces\ the\ world's\ edge\r\n
+comment3.params=
+comment3.target=void\ startTrail()
+comment3.text=\r\nmethod\ for\ starting\ the\ trail\r\n
+comment4.params=
+comment4.target=void\ explodeTouch()
+comment4.text=\r\n\ method\ to\ remove\ object\ after\ touching\ enemy\r\n
+numComments=5

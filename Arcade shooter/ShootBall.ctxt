@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ method\r\n
+comment1.params=
+comment1.target=boolean\ edgeWall()
+comment1.text=\r\n\ method\ to\ see\ if\ the\ death\ touches\ the\ world's\ edge\r\n
+comment2.params=
+comment2.target=void\ bounceBack()
+comment2.text=\r\n\ method\ to\ bounce\ the\ ball\r\n
+numComments=3

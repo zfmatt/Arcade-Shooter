@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ StrongFire\ wants\ to\ do.\ \r\n
+comment1.params=
+comment1.target=boolean\ edgeFire()
+comment2.params=
+comment2.target=void\ strongTouch()
+numComments=3

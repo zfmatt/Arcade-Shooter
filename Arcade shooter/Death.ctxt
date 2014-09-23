@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Death()
+comment0.text=\r\n\ constructor\ for\ death\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Death\ wants\ to\ do.\ \r\n
+comment2.params=
+comment2.target=void\ deathZero()
+comment2.text=\r\n\ If\ death's\ health\ is\ <\=\ 0,\ then\ add\ explosions\ and\ remove\ death\r\n
+comment3.params=
+comment3.target=void\ deathCheckCollision()
+comment3.text=\r\n\ See\ if\ attacks\ collide\ with\ death\r\n
+comment4.params=
+comment4.target=void\ deathWillAttack()
+comment4.text=\r\n\ method\ for\ spawning\ death's\ attacks\ at\ the\ specified\ locations\r\n
+comment5.params=
+comment5.target=void\ randomMovement()
+comment5.text=\r\n\ Generate\ random\ movement\ for\ death.\r\n\ Mr\ Cohen\ helped\ with\ this\ piece\ of\ code**\r\n
+numComments=6
